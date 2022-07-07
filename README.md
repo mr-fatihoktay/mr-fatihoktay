@@ -5,4 +5,3 @@
 - 📫 How to reach me learning
 - 💞️ My profession is a lawyer
 - 📂 I don't even know where to begin
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
